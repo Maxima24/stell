@@ -1,0 +1,131 @@
+h1,h2,h3,h4{
+    color: white;
+    text-align: center;
+}
+li{
+    color: white;
+}
+.body{
+    background-image: url("bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    height: auto;
+}
+.subset-1{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+}
+.c2{
+    width: 150px;
+    border-radius: 50%;
+    float: left;
+    
+}
+.p13{
+    color: white;
+    float: left;
+    padding-left: 30px;
+    padding-top: 120px;
+   
+}
+.clear{
+    clear: left;
+}
+.about-me h2{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 0px;
+}
+.p1{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+.p2{
+    color: white;
+}
+.h3{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+.pic-interest{
+    text-transform: uppercase;
+}
+.gr-design h4{
+    text-align:left;
+    text-decoration: dashed;
+    text-decoration-style: dashed;
+}
+.gr-design{
+    clear:both;
+}
+.photo1 img {
+    width: 300px;
+    float:left;
+}
+   
+.photo1{
+    border-color: antiquewhite;
+    border: 2px solid;
+    border-color: aliceblue;
+    display: inline-block;
+    
+}
+.photo2 img{
+    width: 300px;
+    height: 225px;
+    margin-right: 10px;
+    float: left;
+    margin-right: 0px;
+    
+}
+.photo2{
+    
+    display: inline-block;
+    border: 2px solid;
+    border-color: white;
+    border-width: 100%;
+}
+.sde-img img{
+    width: 300px;
+    height: 225px;
+    margin-right: 10px;
+    float: left;
+    margin-right: 0px;
+    border: 2px solid;
+    border-color: white;
+    margin-right: 10px;
+}
+.side-img{
+    display: inline-block;
+   
+    border-width: 100%;
+}
+.sde{
+    text-transform: uppercase;
+}
+.closing-text p{
+    color: white;
+    float: left;
+    margin-right: 10px;
+}
+.bye img{
+    width: 300px;
+    height: 225px;
+    margin-right: 10px;
+    float: right;
+    margin-right: 10px;
+    border: 2px solid;
+    border-color: white;
+    margin-right: 10px;
+    margin-top: 10px;
+
+}
+.bye{
+    display: inline-block;
+}
